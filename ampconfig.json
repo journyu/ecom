@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.3",
+  "appInfo": {
+    "name": "ecomex",
+    "description": "Application for e-commerce",
+    "version": "xpj3tmgc",
+    "id": "cl1jb5yt64007001s6ddb52iat",
+    "url": "https://app.amplication.com/cl1jb5yt64007001s6ddb52iat",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "ecomx",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1jb5yt64007001s6ddb52iat",
+      "authProvider": "Jwt"
+    }
+  }
+}
